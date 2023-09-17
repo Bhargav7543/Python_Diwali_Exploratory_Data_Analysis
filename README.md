@@ -1,2 +1,2 @@
-# Python_Diwali_Exploratory_Data_Analysis
-Python Project for Data Analysis  Exploratory Data Analysis | Data Analyst Project
+# Python_Diwali_Sales_Analysis
+Python project for beginners- Analyze Diwali sales data to improve customer experience and sales
